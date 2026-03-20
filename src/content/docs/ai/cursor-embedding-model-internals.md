@@ -363,3 +363,9 @@ Risks: bias amplification (V1's blind spots persist), distribution shift (develo
 - [6 Best Code Embedding Models Compared](https://modal.com/blog/6-best-code-embedding-models-compared)
 - [ZenML: Cursor Case Study](https://www.zenml.io/llmops-database/enhancing-ai-coding-agent-performance-with-custom-semantic-search)
 - [How Cursor (AI IDE) Works](https://blog.sshh.io/p/how-cursor-ai-ide-works)
+
+---
+
+:::note[Disclaimer]
+This article was generated with AI assistance. While the content has been reviewed for accuracy, it is based on publicly available sources and reverse-engineering analyses — not official Cursor documentation. Some details may be approximations or educated inferences. Always refer to [Cursor's official blog](https://cursor.com/blog) and [docs](https://docs.cursor.com) for authoritative information.
+:::

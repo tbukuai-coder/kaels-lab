@@ -184,3 +184,9 @@ SERVER
 - [Shrivu Shankar: How Cursor (AI IDE) Works](https://blog.sshh.io/p/how-cursor-ai-ide-works) (Mar 2025)
 - [BitPeak: Deep dive into vibe coding](https://bitpeak.com/how-cursor-works-deep-dive-into-vibe-coding/) (Oct 2025)
 - [Praveen Rajagopal: I Reverse-Engineered Cursor](https://medium.com/@praveenrajagopal45/i-reverse-engineered-cursor-this-is-how-it-understands-your-entire-codebase-5457890c676a) (Dec 2025)
+
+---
+
+:::note[Disclaimer]
+This article was generated with AI assistance. While the content has been reviewed for accuracy, it is based on publicly available sources and reverse-engineering analyses — not official Cursor documentation. Some details may be approximations or educated inferences. Always refer to [Cursor's official blog](https://cursor.com/blog) and [docs](https://docs.cursor.com) for authoritative information.
+:::
