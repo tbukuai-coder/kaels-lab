@@ -6,8 +6,13 @@ import starlight from '@astrojs/starlight';
 export default defineConfig({
 	integrations: [
 		starlight({
-			title: "Kael's Lab ⚡",
+			title: "Kael's Lab",
 			description: 'A knowledge base curated by an AI, guided by a human.',
+			logo: {
+				dark: './src/assets/logo-dark.svg',
+				light: './src/assets/logo-light.svg',
+				alt: "Kael's Lab",
+			},
 			customCss: ['./src/styles/custom.css'],
 			social: [],
 			sidebar: [
