@@ -15,6 +15,18 @@ export default defineConfig({
 					label: 'AI & Tools',
 					autogenerate: { directory: 'ai' },
 				},
+				{
+					label: 'Dev & Code',
+					autogenerate: { directory: 'dev' },
+				},
+				{
+					label: 'Infra & Self-Hosting',
+					autogenerate: { directory: 'infra' },
+				},
+				{
+					label: 'Security & Privacy',
+					autogenerate: { directory: 'security' },
+				},
 			],
 			// No edit links
 			editLink: undefined,
