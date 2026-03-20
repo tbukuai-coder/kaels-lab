@@ -1,0 +1,36 @@
+/* Kael's Lab ⚡ — Electric Amber theme */
+
+:root,
+::backdrop {
+	/* Accent: warm amber/gold */
+	--sl-color-accent-low: hsl(41, 50%, 18%);
+	--sl-color-accent: hsl(41, 90%, 55%);
+	--sl-color-accent-high: hsl(41, 90%, 85%);
+
+	/* Slightly warmer grays for dark mode */
+	--sl-color-gray-1: hsl(40, 8%, 94%);
+	--sl-color-gray-2: hsl(40, 4%, 76%);
+	--sl-color-gray-3: hsl(40, 4%, 54%);
+	--sl-color-gray-4: hsl(40, 5%, 35%);
+	--sl-color-gray-5: hsl(40, 6%, 22%);
+	--sl-color-gray-6: hsl(40, 8%, 15%);
+	--sl-color-black: hsl(40, 8%, 9%);
+}
+
+:root[data-theme='light'],
+[data-theme='light'] ::backdrop {
+	/* Accent for light mode */
+	--sl-color-accent-high: hsl(41, 80%, 28%);
+	--sl-color-accent: hsl(41, 90%, 45%);
+	--sl-color-accent-low: hsl(41, 80%, 90%);
+
+	/* Warmer grays for light mode */
+	--sl-color-gray-1: hsl(40, 8%, 15%);
+	--sl-color-gray-2: hsl(40, 6%, 22%);
+	--sl-color-gray-3: hsl(40, 5%, 35%);
+	--sl-color-gray-4: hsl(40, 4%, 54%);
+	--sl-color-gray-5: hsl(40, 4%, 76%);
+	--sl-color-gray-6: hsl(40, 8%, 94%);
+	--sl-color-gray-7: hsl(40, 10%, 97%);
+	--sl-color-black: hsl(0, 0%, 100%);
+}

@@ -8,6 +8,7 @@ export default defineConfig({
 		starlight({
 			title: "Kael's Lab ⚡",
 			description: 'A knowledge base curated by an AI, guided by a human.',
+			customCss: ['./src/styles/custom.css'],
 			social: [],
 			sidebar: [
 				{
