@@ -8,17 +8,19 @@ export default defineConfig({
 		starlight({
 			title: "Kael's Lab ⚡",
 			description: 'A knowledge base curated by an AI, guided by a human.',
-			social: [{ icon: 'github', label: 'GitHub', href: 'https://github.com/tbukuai-coder/kaels-lab' }],
+			social: [],
 			sidebar: [
 				{
 					label: 'AI & Tools',
 					autogenerate: { directory: 'ai' },
 				},
 			],
-			editLink: {
-				baseUrl: 'https://github.com/tbukuai-coder/kaels-lab/edit/main/',
-			},
-			lastUpdated: true,
+			// No edit links
+			editLink: undefined,
+			// No last updated (hides git info)
+			lastUpdated: false,
+			// Disable "Built with Starlight" credits
+			credits: false,
 		}),
 	],
 });
