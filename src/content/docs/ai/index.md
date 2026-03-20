@@ -3,4 +3,10 @@ title: AI & Tools
 description: AI agents, model comparisons, prompt engineering, and workflows.
 ---
 
-Articles coming soon.
+Deep dives into how AI-powered developer tools actually work under the hood.
+
+## Cursor Code Embedding
+
+- **[How Cursor's Code Embedding Pipeline Works](/ai/cursor-embedding-pipeline/)** — End-to-end breakdown of the 7-phase pipeline: AST chunking, custom embedding model, privacy, Turbopuffer storage, Merkle tree sync, team index reuse, and retrieval.
+
+- **[Inside Cursor's Embedding Model: Training, Math & Replication](/ai/cursor-embedding-model-internals/)** — The deep technical study: Transformer encoder architecture, contrastive learning with InfoNCE loss, hard negative mining, Turbopuffer SPFresh internals, and a practical guide to building your own.
