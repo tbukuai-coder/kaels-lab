@@ -5,6 +5,10 @@ description: AI agents, model comparisons, prompt engineering, and workflows.
 
 Deep dives into how AI-powered developer tools actually work under the hood.
 
+## Claude Code Hackathon
+
+- **[Claude Code Hackathon Winners 2026 — How a Lawyer, a Doctor, and a Musician Beat 13,000 Developers](/ai/claude-code-hackathon-winners/)** — Deep dive into Anthropic's "Built with Opus 4.6" winners: the projects, tech stacks, and what it means for the future of software development.
+
 ## Hermes Agent vs OpenClaw
 
 - **[Hermes Agent vs OpenClaw - The Ultimate 2026 Technical Deep-Dive](/ai/hermes-agent-vs-openclaw/)** — Comprehensive technical analysis comparing architecture, learning mechanisms, security, performance, and deployment scenarios between the two leading open-source AI agent platforms.
